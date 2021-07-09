@@ -124,7 +124,7 @@ app.start()
 print('>>> USERBOT STARTED')
 idle()
 app.stop()
-print('\n>>> USERBOT STOPPED')
+print('\n>>> USERBOT BERHENTI')
 ```
 
 ## Notes
